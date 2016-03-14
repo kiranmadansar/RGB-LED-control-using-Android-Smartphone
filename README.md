@@ -21,6 +21,14 @@ Smartphone code to get sensor data and transfer it to Intel Edison is written by
 For bluetooth configuration on the Intel Edison, run the file rgbled_setup.sh using the command 
 
       ./rgbled_setup.sh
+##Executing the program
+You can use following command to execute the specific program
+
+      python simple_rgb.py
+      
+or
+
+      python rgb_colors.py
 
 ##Reference
 * https://arduino-info.wikispaces.com/RGB-LED
