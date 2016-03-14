@@ -14,8 +14,8 @@ Smartphone code to get sensor data and transfer it to Intel Edison is written by
 
 ##Pin Configuration
 * Connect Red LED pin to pin 3 of Intel Edison via 220 Ohm resistor
-* Connect Green LED pin to pin 5 of Intel Edison via 220 Ohm resistor
-* Connect Blue LED pin to pin 6 of Intel Edison via 220 Ohm resistor
+* Connect Blue LED pin to pin 5 of Intel Edison via 220 Ohm resistor
+* Connect Green LED pin to pin 6 of Intel Edison via 220 Ohm resistor
 * Connect Anode LED pin to 5 V supply of Intel Edison
 
 For bluetooth configuration on the Intel Edison, run the file rgbled_setup.sh using the command 
