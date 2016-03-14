@@ -32,3 +32,7 @@ or
 
 ##Reference
 * https://arduino-info.wikispaces.com/RGB-LED
+
+hello 
+hi
+hey
