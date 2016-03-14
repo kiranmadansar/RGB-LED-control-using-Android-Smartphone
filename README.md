@@ -4,9 +4,9 @@ Change the colors of RGB LED connected to Intel Edison using Android Smartphone
 We use Android Smartphone sensors to change the color of RGB-LED connected to Intel Edison.
 Sensor data is sent from Smartphone to Intel Edison via Bluetooth protocol.  
 
-Smartphone code to get sensor data and transfer it to Intel Edison is written by Sarweshkumar CR.
+Smartphone code to get sensor data and transfer it to Intel Edison is written by [Sarweshkumar CR](https://github.com/sarweshkumar47)  You can follow it [here](https://github.com/sarweshkumar47/RGB-LED-Control-through-Intel-Edison-using-Android-Smartphone-Gesture-Tilt).
 
-##Hardwares used:
+##Hardware :
 * Intel Edison
 * Android Smartphone ( which has accelerometer and magnetometer )
 * 3 resistors each of 220 Ohm.
@@ -19,6 +19,7 @@ Smartphone code to get sensor data and transfer it to Intel Edison is written by
 * Connect Anode LED pin to 5 V supply of Intel Edison
 
 For bluetooth configuration on the Intel Edison, run the file rgbled_setup.sh using the command 
+
       ./rgbled_setup.sh
 
 ##Reference
